@@ -38,4 +38,4 @@ Once the Django development server is running, access the eFarm app at `http://l
 I greatly appreciate your feedback on how we can further enhance the eFarm project. Feel free to share your thoughts and suggestions with me.
 
 ---
-For more information, please visit my [YouTube channel](https://www.youtube.com/@peterevance), where tutorials and updates are regularly shared.
+
